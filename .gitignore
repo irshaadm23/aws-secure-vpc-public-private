@@ -1,0 +1,5 @@
+# SSH private keys
+*.pem
+
+#macOS
+.DS_Store
